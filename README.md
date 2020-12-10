@@ -8,7 +8,7 @@ Em um sistema onde são gerados inúmeros quadrados, com diferentes cores e tama
 
 Solução:
 
-Como os quadrados gerados são utilizados um por vez, uma boa solução para esse problema é usar o padrão de projeto flayweigth. Pois esse permite que sejam gerados apenas um quadrado para cada cor e sejam alterados os tamanhos de seus lados, evitando a criação de vários objetos sem necessidade.
+Como os quadrados gerados são utilizados um por vez, uma boa solução para esse problema é usar o padrão de projeto flyweigth. Pois esse permite que sejam gerados apenas um quadrado para cada cor e sejam alterados os tamanhos de seus lados, evitando a criação de vários objetos sem necessidade.
 
 Consequências:
 
